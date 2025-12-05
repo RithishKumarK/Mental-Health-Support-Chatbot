@@ -36,7 +36,6 @@ cd mental_health_chatbot
 pip install -r requirements.txt
 python app.py
 
-Then open your browser at http://127.0.0.1:7860 to use the app.
 
 Usage
 Type your question in the input box.
